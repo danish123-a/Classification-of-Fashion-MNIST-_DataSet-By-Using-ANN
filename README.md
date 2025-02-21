@@ -1,0 +1,1 @@
+# Classification-of-Fashion-MNIST-_DataSet-By-Using-ANN
